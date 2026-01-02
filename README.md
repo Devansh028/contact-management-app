@@ -71,7 +71,9 @@ Reusable components (Button)
 Clean, calm custom color palette for a professional look
 
 📂 Project Structure
-Backend
+
+--Backend
+
 backend/
 ├── config/
 ├── controllers/
@@ -79,7 +81,8 @@ backend/
 ├── routes/
 └── server.js
 
-Frontend
+--Frontend
+
 frontend/
 ├── components/
 │   ├── ContactForm.jsx
