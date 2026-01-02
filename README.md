@@ -94,16 +94,18 @@ frontend/
 
 
 ▶️ How to Run the Project
-Backend
+
+--Backend
+
 cd backend
 npm install
 npm run dev
 
-Frontend
+--Frontend
+
 cd frontend
 npm install
 npm start
-
 
 Make sure MongoDB is running or a MongoDB Atlas URI is configured.
 
